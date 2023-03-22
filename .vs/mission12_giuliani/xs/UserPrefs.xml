@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9D69A082-E0E5-4275-87EF-2C0D4F38E99D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mission12_giuliani/Program.cs">
+    <Files>
+      <File FileName="mission12_giuliani/Program.cs" Line="17" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mission12_giuliani" expanded="True">
+            <Node name="mission12_giuliani" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mission12__giuliani FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
